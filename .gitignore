@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Data
+*.csv
+*.h5
+*.pkl
+*.pth
+*.ckpt
+data/
+datasets/
+models/
+checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Personal notes
+**/private/
+**/drafts/
